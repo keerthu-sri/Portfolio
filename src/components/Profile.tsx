@@ -84,7 +84,7 @@ const About = () => {
             <div className="absolute inset-0 bg-gradient-to-t from-gray-900/80 to-transparent"></div>
             <div className="absolute bottom-6 left-6 right-6">
               <p className="text-white text-lg font-medium">
-                <!-Strive / Perceive / Accomplish>
+                 # Strive / Perceive / Accomplish #
               </p>
             </div>
           </div>
