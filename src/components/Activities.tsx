@@ -11,7 +11,7 @@ const Activities = () => {
       icon: Users,
       gradient: 'from-blue-500 to-cyan-500',
       activities: [
-        { name: 'DSBS Students Association', role: 'Member', color: 'from-blue-500 to-blue-600' },
+        { name: 'DSBS Students Association', role: 'President of Operations', color: 'from-blue-500 to-blue-600' },
         { name: 'IEI DSBS Student Chapter', role: 'Technical Member', color: 'from-green-500 to-green-600' },
         { name: 'ACM SigKDD', role: 'Corporate Member', color: 'from-purple-500 to-purple-600' },
         { name: 'SRMMUN Society', role: 'Member[2024-2025]', color: 'from-orange-500 to-orange-600' }
