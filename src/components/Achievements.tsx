@@ -8,7 +8,7 @@ const Achievements = () => {
       icon: Users,
       gradient: 'from-blue-500 to-indigo-500',
       items: [
-        'Member of Data Science Students Association',
+        'President of Operations of Data Science Students Association',
         'Technical Member of IEI Club',
         'Corporate Member of ACM Club',
         'MUN Society Member at SRM'
